@@ -3,6 +3,7 @@ TODO:
 1. a demo to create a project with mybatis & lombok
 2. fullfill a controller & dao
 3. sql DDL
+
 CREATE TABLE `department` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `departmentName` varchar(255) DEFAULT NULL,
